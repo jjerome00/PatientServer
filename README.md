@@ -3,7 +3,24 @@
 
 Jason Jerome Candidate Project - Patient Sync
 
-To start, from project root:
+A basic endpoint that returns a list of patients.
+
+The server is backed by a sqlite database. If the database file is deleted, the app will re-create it.
+
+## Dependencies
+* node.js
+* npm
+
+
+## Getting Started
+* run all commands from project root
+
+Install dependencies:
+```
+npm install
+```
+
+To start:
 ```
 npm run start
 ```
