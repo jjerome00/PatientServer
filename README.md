@@ -5,7 +5,7 @@ Jason Jerome Candidate Project - Patient Sync
 
 A basic endpoint that returns a list of patients.
 
-The server is backed by a sqlite database. If the database file is deleted, the app will re-create it.
+The server is backed by a sqlite database. If the database file is deleted, the server will re-create it.
 
 ## Dependencies
 * node.js
