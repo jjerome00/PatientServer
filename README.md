@@ -1,11 +1,13 @@
 
-# Pulsara Patient Server
+# Patient Server
 
-Jason Jerome Candidate Project - Patient Sync
+Patient Sync: A Jason Jerome Candidate Project
 
 A basic endpoint that returns a list of patients.
 
 The server is backed by a sqlite database. If the database file is deleted, the server will re-create it.
+
+This was for a take-home assignment for a potential job. The assignment was to write a simple web server to provide data to an Android app (also written by me).
 
 ## Dependencies
 * node.js
