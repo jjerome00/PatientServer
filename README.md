@@ -1,13 +1,9 @@
 
 # Patient Server
 
-Patient Server: A Jason Jerome Candidate Project
-
-A basic endpoint that returns a list of patients.
+A basic demo of a node endpoint that returns a list of patients. It's meant to work with an Android app (also written by me). You can see the Android app here: https://github.com/jjerome00/PatientSyncAndroid 
 
 The server is backed by a sqlite database. If the database file is deleted, the server will re-create it.
-
-This was for a take-home assignment. The assignment was to write a simple web server to provide data to an Android app (also written by me).  You can see the Android app here: https://github.com/jjerome00/PatientSyncAndroid
 
 ## Dependencies
 * node.js
